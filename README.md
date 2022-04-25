@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Encrypto
 
-### `npm start`
+- Encrypt images, the entire ASCII character space, etc based on the Knight's tour.
+- Keyed stream transposition cipher
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+!["Encrypto"](/client/src/images/png/Home.png)

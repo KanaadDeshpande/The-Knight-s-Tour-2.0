@@ -24,3 +24,4 @@
 
 **/__pycache/
 **/db.sqlite3
+.vscode/

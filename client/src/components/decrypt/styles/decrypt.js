@@ -40,7 +40,6 @@ export const SubmitButton = styled.button`
 `;
 
 export const CipherOutput = styled.div`
-  /* border: 1px solid beige; */
   border-radius: 5px;
   height: 500px;
   width: 350px;
